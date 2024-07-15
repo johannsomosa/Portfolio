@@ -4,9 +4,9 @@
 Business Economics, Bachelors of Science
 
 ### Projects
-Data Cleaning for International Layoffs
-- Accomplishment 1!
-- Accomplishment 2!
+International Data for Layoff
+- Data Cleaning
+- Exploratory Data Analysis
   
 
 ### Work Experience
