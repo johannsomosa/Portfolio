@@ -8,12 +8,12 @@ B.S., Business Economics | The California State University of Los Angeles (_Augu
 
 ## Projects
 ### EDA for International Layoffs
+![Picture of a newspaper with text about COVID layoffs](https://github.com/johannsomosa/Portfolio/blob/main/Assets/james-yarema-z0rAZ0ghlB4-unsplash.jpg)
 - [Data Cleaning](https://github.com/johannsomosa/Portfolio/blob/2caef3f602c8e659ada40c7031cf25058a55c073/world_layoffsscript.sql#L1C1-L158C21)
 - [Exploratory Data Analysis](https://github.com/johannsomosa/Portfolio/blob/2549671e0ce6bc1b31ec5204b73f5a8fecf1be93/world_layoffsscript.sql#L1-L158)
   
 Analyzed dataset of 1000+ companies' layoffs between 2020-2023. Explored the dataset to identify any meaningful insights. The project records the SQL scripts utilized to find meaningful insights in the dataset. Examples include a top 5-rank system categorizing the companies that experienced the most layoffs between 2020-2023. Conducted monthly rolling totals for layoffs, ascending from the earliest date to the latest date. Identified which series start-up companies are most likely to experience the most layoffs. Prior to running EDA, a data cleaning project was conducted. The data cleaning project consisted of standardizing data, removing duplicates, and addressing null and blank values.
 
-![Picture of a newspaper with text about COVID layoffs](https://github.com/johannsomosa/Portfolio/blob/main/Assets/james-yarema-z0rAZ0ghlB4-unsplash.jpg)
 
 ### Driving factors for California Highschool's Performances on the SBSA Assessment
 #### CSULA Coursework Project
