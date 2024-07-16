@@ -17,7 +17,7 @@ Analyzed dataset of 1000+ companies' layoffs between 2020-2023. Explored the dat
 
 ### CSULA Data Analysis and Presentation Project
 #### Driving factors for California Highschool's Performances on the SBSA Assessment
-![Picture of a newspaper with text about COVID layoffs](https://github.com/johannsomosa/Portfolio/blob/main/Assets/anton-sukhinov-_C2A8THeKKs-unsplash.jpg)
+![Picture of colored pencils in a pencil pot](https://github.com/johannsomosa/Portfolio/blob/main/Assets/anton-sukhinov-_C2A8THeKKs-unsplash.jpg)
   Discovered little-to-no correlation between high school performance and four internal factors: yearly budget for teachers and students, student-to-teacher ratio, and # of advanced placement (AP) courses offered.
   
 - Performed regression analysis on four educational factors against high school academic performance, across a random sample of 50 California highschools.
