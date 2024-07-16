@@ -1,4 +1,4 @@
-![alt text](https://github.com/[JohannSomosa]/[Portfolio]/Assets/_P4A9580-4.png)
+![Portrait Picture of Johann Somosa](https://github.com/[JohannSomosa]/[Portfolio]/Assets/_P4A9580-4.png)
 # Data Analyst
 
 #### Technical Skills: SQL, Excel, Photoshop
