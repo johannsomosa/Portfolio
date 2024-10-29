@@ -20,10 +20,11 @@ Conducted data cleaning for a dataset of 1,628 companies by removing duplicates,
 - Created educational, marketing, and advertisement content using various formats, including graphic design, photography, and film.
 - Developed and maintained relationships with a loyal client base, communicating expectations and providing high-quality service.
 
-
 **Marketing Intern @ Equipment Systems Corporation (_June 2023 - August 2023_)**
-- Optimized lead generation process for sales team which increased the work efficiency by 200%
-- Created a website for the company; Contracted vendors, directed teams, managed media assets, pitched budgets, tracked, and manged project schedules
+- Optimized lead generation process for sales team which increased the work efficiency by 200%.
+- Developed and directed website development team to deliver state-of-the art website within 2-month project lifecycle.
+- Interviewed vendors to conduct vendor risk assessment and record within Excel each vendor's cost, quality of work, and timeline for completion.
+- Prepared project schedules and budget sheets on Excel to track costs and time of delivery.
 
 **Marketing Intern @ QCells U.S.A. Corporation (_November 2022 - December 2022_)**
 - Wrote content about photovoltaic technology and EPC business systems, educating the target market to support sales teams. 
