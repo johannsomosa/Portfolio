@@ -16,9 +16,10 @@ Conducted data cleaning for a dataset of 1,628 companies by removing duplicates,
 
 ## Work Experience
 **Owner @ Johann Somosa Photography (_January 2019 - Present_)**
-- Developed freelance photography-videography business providing over 3000+ media assets to over 12+ clients and businesses including BMW, Puma, and QCells.
-- Created educational, marketing, advertisement content utilizing several formats including graphic design, photographs, or films.
+- Developed a freelance photography and videography business, providing over 3,000+ marketing assets to clients and businesses, including BMW, Puma, and QCells.
+- Created educational, marketing, and advertisement content using various formats, including graphic design, photography, and film.
 - Developed and maintained relationships with a loyal client base, communicating expectations and providing high-quality service.
+
 
 **Marketing Intern @ Equipment Systems Corporation (_June 2023 - August 2023_)**
 - Optimized lead generation process for sales team which increased the work efficiency by 200%
