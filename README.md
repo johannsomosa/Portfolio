@@ -12,21 +12,8 @@ B.S., Business Economics | The California State University of Los Angeles (_Augu
 - [Data Cleaning](https://github.com/johannsomosa/Portfolio/blob/2caef3f602c8e659ada40c7031cf25058a55c073/world_layoffsscript.sql#L1C1-L158C21)
 - [Exploratory Data Analysis](https://github.com/johannsomosa/Portfolio/blob/2549671e0ce6bc1b31ec5204b73f5a8fecf1be93/world_layoffsscript.sql#L1-L158)
   
-Analyzed dataset of 1000+ companies' layoffs between 2020-2023. Explored the dataset to identify any meaningful insights. The project records the SQL scripts utilized to find meaningful insights in the dataset. Examples include a top 5-rank system categorizing the companies that experienced the most layoffs between 2020-2023. Conducted monthly rolling totals for layoffs, ascending from the earliest date to the latest date. Identified which series start-up companies are most likely to experience the most layoffs. Prior to running EDA, a data cleaning project was conducted. The data cleaning project consisted of standardizing data, removing duplicates, and addressing null and blank values.
+Conducted data cleaning for a dataset of 1,628 companies by removing duplicates, standardizing the data, and addressing blank values. Performed exploratory data analysis (EDA) on companies' layoffs between 2020 and 2023, identifying the top 5 companies, start-ups, and industries that experienced the most layoffs during COVID-19. Implemented SQL functions including rolling totals and ranking systems utilizing CTE functions.
 
-
-### CSULA Data Analysis and Presentation Project
-#### Driving factors for California Highschool's Performances on the SBSA Assessment
-![Picture of classroom with orange desks and maps pasted on the wall](https://github.com/johannsomosa/Portfolio/blob/main/Assets/seen-Dhoy-bWjv-I-unsplash.jpg)
-  Discovered little-to-no correlation between high school performance and four internal factors: yearly budget for teachers and students, student-to-teacher ratio, and # of advanced placement (AP) courses offered.
-  
-- Performed regression analysis on four educational factors against high school academic performance, across a random sample of 50 California highschools.
-- Identified and collected data on yearly budget for teachers and students, student-to-teacher ratio, number of advanced placement (AP) courses,—against the highschool performance.
-- Collected 50 California’s Math and English assessment scores based on the Smarter Balanced Summative Assessment, providing a cohesive and consistent metric across the sample.
-- Wrote and presented a research paper translating regression analysis summary into empirical findings, based on the extensive data collection and compilation in Excel.
-
-
-      
 ## Work Experience
 **Owner @ Johann Somosa Photography (_January 2019 - Present_)**
 - Developed freelance photography-videography business providing over 3000+ media assets to over 12+ clients and businesses including BMW, Puma, and QCells.
