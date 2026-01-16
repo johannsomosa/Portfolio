@@ -1,34 +1,34 @@
 ![Portrait of Johann Somosa](https://github.com/johannsomosa/Portfolio/blob/main/Assets/_P4A9580-4.png)
 # Finance Analyst
-
+Vision-driven finance professional with a strong foundation in economics and a deep interest in capital markets, long-term value creation, and private equity. Brings a structured, macro-analytical approach to complex investment and business problems across market cycles, capital allocation, and organizational design. Proven ability to transform financial data into compelling stories that guide strategic insights. Proficient in SQL and Excel. Recognized for people-first mindset, adaptability, and an ownership mindset. 
 #### Technical Skills: SQL, Excel, Photoshop
 
 ## Education
-B.S., Business Economics | The California State University of Los Angeles (_August 2024_)
+B.S. in Business Administration & Economics, Business Economics | The California State University of Los Angeles (_August 2024_)
 
 ## Projects
-### EDA for International Layoffs
-![Picture of a newspaper with text about COVID layoffs](https://github.com/johannsomosa/Portfolio/blob/main/Assets/james-yarema-z0rAZ0ghlB4-unsplash.jpg)
-- [Data Cleaning](https://github.com/johannsomosa/Portfolio/blob/2caef3f602c8e659ada40c7031cf25058a55c073/world_layoffsscript.sql#L1C1-L158C21)
-- [Exploratory Data Analysis](https://github.com/johannsomosa/Portfolio/blob/2549671e0ce6bc1b31ec5204b73f5a8fecf1be93/world_layoffsscript.sql#L1-L158)
+### Financial Modeling – Block Inc. and 18 FinTech competitors (Excel)
+- [Tech Finance Valuations]([https://github.com/johannsomosa/Financial-Case-Studies/blob/main/Tech%20Finance%20Valuation.xlsx])
+- [FISERV 3-statement model, DCF model, and case-scenario analysis] ([https://github.com/johannsomosa/Financial-Case-Studies/blob/main/FISERV%203INCOMESTATEMENT%20(version%201).xlsb.xlsx])
   
-Conducted data cleaning for a dataset of 1,628 companies by removing duplicates, standardizing the data, and addressing blank values. Performed exploratory data analysis (EDA) on companies' layoffs between 2020 and 2023, identifying the top 5 companies, start-ups, and industries that experienced the most layoffs during COVID-19. Implemented SQL functions including rolling totals and ranking systems utilizing CTE functions.
+Performed valuation on Block Inc., developing 3-statement and DCF models to support variance and case-scenario analysis. Benchmarked financial performance against 18 other competitors based on valuation metrics including market capitalization, enterprise value, earnings, retained earnings, and revenue growth. Developed 3-statement models analyzing each of the company’s financial performance, deriving data from 10-Qs, 8-Ks, and quarterly earnings call reports
 
 ## Work Experience
-**Owner @ Johann Somosa Photography (_January 2019 - Present_)**
-- Developed a freelance photography and videography business, providing over 3,000+ marketing assets to clients and businesses, including BMW, Puma, and QCells.
-- Created educational, marketing, and advertisement content using various formats, including graphic design, photography, and film.
-- Developed and maintained relationships with a loyal client base, communicating expectations and providing high-quality service.
+**Drink & Food Runner @ Elephante (_August 2025 - Current_)**
+- Delivered 200+ orders daily to guests, delivering excellent customer service and improving workflow efficiency in a high-volume restaurant.
+  
+**Claims Processor @ Prudential Financial (_August 2024 - May 2025_)**
+- Streamlined pension claims for 30+ retirees daily, providing guidance on tax implications and multi-state and international compliance to ensure accurate benefit distributions.
+- Managed 5,000+ client accounts in Salesforce, ensuring data accuracy and timely claim updates during peak tax season.
+
 
 **Marketing Intern @ Equipment Systems Corporation (_June 2023 - August 2023_)**
-- Optimized lead generation process for sales team which increased the work efficiency by 200%.
-- Developed and directed website development team to deliver state-of-the art website within 2-month project lifecycle.
-- Interviewed vendors to conduct vendor risk assessment and record within Excel each vendor's cost, quality of work, and timeline for completion.
-- Prepared project schedules and budget sheets on Excel to track costs and time of delivery.
+- Managed $7K project delivering a new company website and promotional video to strengthen brand engagement and improve customer acquisition, increasing conversions to 100+ per day.
+- Directed a 5-person creative team translating business objectives across Webflow and DaVinci.
+
 
 **Marketing Intern @ QCells U.S.A. Corporation (_November 2022 - December 2022_)**
-- Wrote content about photovoltaic technology and EPC business systems, educating the target market to support sales teams. 
-- Took stock, and managed over 100+ internal marketing materials
+- Planned and coordinated end-to-end logistics for the secure transportation of high-grade surveillance equipment supporting utility-scale solar energy projects.
 
 
 
