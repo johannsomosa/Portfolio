@@ -8,7 +8,8 @@ B.S. in Business Administration & Economics, Business Economics | The California
 
 ## Projects
 ### Financial Modeling – Block Inc. and 18 FinTech competitors (Excel)
-- [Tech Finance Valuations]([https://github.com/johannsomosa/Financial-Case-Studies/blob/main/Tech%20Finance%20Valuation.xlsx])
+- [Tech Finance Valuations] ([https://github.com/johannsomosa/Financial-Case-Studies/blob/main/Tech%20Finance%20Valuation.xlsx])
+
 - [FISERV 3-statement model, DCF model, and case-scenario analysis] ([https://github.com/johannsomosa/Financial-Case-Studies/blob/main/FISERV%203INCOMESTATEMENT%20(version%201).xlsb.xlsx])
   
 Performed valuation on Block Inc., developing 3-statement and DCF models to support variance and case-scenario analysis. Benchmarked financial performance against 18 other competitors based on valuation metrics including market capitalization, enterprise value, earnings, retained earnings, and revenue growth. Developed 3-statement models analyzing each of the company’s financial performance, deriving data from 10-Qs, 8-Ks, and quarterly earnings call reports
