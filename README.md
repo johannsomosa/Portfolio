@@ -1,5 +1,5 @@
 ![Portrait of Johann Somosa](https://github.com/johannsomosa/Portfolio/blob/main/Assets/_P4A9580-4.png)
-# Data Analyst
+# Finance Analyst
 
 #### Technical Skills: SQL, Excel, Photoshop
 
